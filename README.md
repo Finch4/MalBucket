@@ -16,7 +16,7 @@ With MalBucket you can:
 - Hunt the samples with YARA Rules (Retro Hunting)
 - Export the data tables from the searchs in various formats
 - Live Hunting
-  - Manage you YARA Rules
+  - Manage your YARA Rules
   - Receive the results in real time in your email
 - Search with queries and visualize the results in a network graph
 - Charts
