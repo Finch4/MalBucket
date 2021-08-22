@@ -8,7 +8,7 @@ MalBucket is a website developed in Django which lets you manage your Malware Sa
 With MalBucket you can:
 
 - Upload Samples
-- Create html/pdf report with informations from various sandbox
+- Create html/pdf report with information from various sandbox
 - Search a sample by:
   - Sha256
   - ImpHash
