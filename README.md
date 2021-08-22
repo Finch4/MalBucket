@@ -1,6 +1,6 @@
 # MalBucket
 
-MalBucket is a website developed in Django which let you manage your Malware Samples with interesting features.
+MalBucket is a website developed in Django which lets you manage your Malware Samples with interesting features.
 
 
 ## Not just management
